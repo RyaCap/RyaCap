@@ -35,8 +35,7 @@
 
 <br/>
 
-<h3 align="left">🔗Please make sure to stop by my LinkedIn or other Social Media using the links below!</h3>
+<h3 align="left">🔗Please make sure to stop by my LinkedIn using the link below!</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ryan-caporusso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-caporusso" height="30" width="40" /></a>
-<a href="https://instagram.com/ryancap13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryan" height="30" width="40" /></a>
+        <a href="https://www.linkedin.com/in/ryan-caporusso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-caporusso" height="30" width="40" /></a>
 </p>
