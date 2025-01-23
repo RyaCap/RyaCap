@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello there, I'm Ryan
 
-<!--
-**RyaCap/RyaCap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is just a little bit about me:<br/>
+                📖Studying Computer Science at Ramapo College of New Jersey as a Junior<br/>
+                💻Programming Experience: Created many projects for school and personal using C++, SQL, & Sage<br/>
+                🕸️Currently Learning: Web Development with HTML, CSS, & JavaScript<br/>
+                <br/>
+                Outside of School Experience:<br/>
+                🪛Hardware Experience: Building & repairing desktop and laptop computers<br/>
+                👨‍💻Work Experience: IT intern at Wanaque School District in New Jersey<br/>
+                <br/>
+                Please make sure to stop by my LinkedIn using the link below!<br/>
+                🔗[Personal LinkedIn](https://www.linkedin.com/in/ryan-caporusso/)
