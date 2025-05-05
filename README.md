@@ -5,7 +5,7 @@
 <h3>Here is just a little bit about me:</h3>
                 📖Studying Computer Science at Ramapo College of New Jersey as a Junior<br/>
                 💻Programming Experience: Created many projects for school and personal using C++, SQL, & Sage<br/>
-                🕸️Currently Learning: Web Development with HTML, CSS, & JavaScript<br/>
+                🕸️Currently Learning: Web Development with HTML/Pug, CSS, & JavaScript, as well as the Bootstrap Framework<br/>
                 <br/>
                 Outside of School Experience:<br/>
                 🪛Hardware Experience: Building & repairing desktop and laptop computers<br/>
