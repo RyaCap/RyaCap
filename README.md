@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryacap&label=Profile%20views&color=0e75b6&style=flat" alt="ryacap" /> </p>
 
 <h3>Here is just a little bit about me:</h3>
-                📖Studying Computer Science at Ramapo College of New Jersey as a Senior <br/>
+                📖Studying Computer Science with a minor in Math at Ramapo College of New Jersey as a Senior <br/>
                 💻Programming Experience: Created many projects for school and personal using C++, Java, Python, & SQL. Other languages include HTML/Pug, CSS and Javascript with the Bootstrap Framework.<br/>
                 🕸️Currently Learning: Game Design using Unreal Engine and The .NET Environment in C#.<br/>
                 <br/>
